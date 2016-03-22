@@ -1,0 +1,17 @@
+{
+  "name": "ping-connection-wrapper",
+  "version": "1.0.0",
+  "description": "Pass a connection and it will auto ping",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "ping",
+    "net",
+    "connection",
+    "auto"
+  ],
+  "author": "Xavier Sellier",
+  "license": "ISC"
+}
